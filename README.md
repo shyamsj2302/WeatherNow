@@ -146,7 +146,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Shyam SJ**
+**Shyam**
 Salesforce Developer | Python Full-Stack Engineer | AI/ML Enthusiast
 
-[GitHub Profile](https://github.com/shyamsj72?utm_source=chatgpt.com)
+
