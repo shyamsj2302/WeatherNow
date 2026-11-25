@@ -106,9 +106,7 @@ Run locally:
 
 ---
 
-## 🌐 Live Demo
 
-[Live on Vercel](https://weathernow-fduson0v0-shyamsj72s-projects.vercel.app)
 
 ---
 
